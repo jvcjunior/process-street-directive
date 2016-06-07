@@ -1,4 +1,4 @@
 angular.module('app', [])
-controller('MainCtrl', function() {
+.controller('MainCtrl', function() {
 	console.log('Main controlller log');
 });
